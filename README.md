@@ -1,4 +1,4 @@
-# Scripts for a CRR publication - github/figshare test
+# Scripts for WGBYC 2023 report - github/figshare test
 testing ices github
 
 see if this works with new license
