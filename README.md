@@ -1,4 +1,4 @@
-# Scripts for WGBYC 2023 report - github/figshare test
+# Scripts for WGBYC reports - github/figshare test
 testing ices github
 
 Files added to make release 2
