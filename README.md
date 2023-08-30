@@ -1,4 +1,4 @@
-# githubicestest
+# Scripts for a CRR publication - github/figshare test
 testing ices github
 
 see if this works with new license
