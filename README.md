@@ -1,7 +1,7 @@
 # Scripts for WGBYC 2023 report - github/figshare test
 testing ices github
 
-see if this works with new license
+Files added to make release 2
 
 Shield: [![CC BY 4.0][cc-by-shield]][cc-by]
 
